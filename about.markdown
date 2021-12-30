@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Allyn Roberts started in cybersecurity as a SOC Analyst in 2015 at Intemrountain Healthcare. In 2016, after graduation with a Bachelor's degree in MIS, he received a full-time position at Intermountain on the Business Continuity & Disaster Recovery team. After a large cybersecurity reorganization at the end of 2021, Allyn changed positions to work on a newly created team: the Office of the CISO. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Allyn's years in cybersecurity at Intermountain have helped lay a strong foundation on cybersecurity, though did not often provide opportunities on the technical side. This site was created to showcase Allyn's more technical work outside of his current job. 

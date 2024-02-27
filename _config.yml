@@ -21,7 +21,7 @@
 title: Allyn's Security Portfolio
 email: Allyn.Roberts@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio on things dealing with cybersecurity
+  Allyn's Cybersecurty Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "AllynRoberts.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheAllynRoberts
